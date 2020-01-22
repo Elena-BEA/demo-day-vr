@@ -205,7 +205,7 @@ PrefabInstance:
     - target: {fileID: 3047652265033760686, guid: a03063d59cd984c4c8753d137b73beba,
         type: 3}
       propertyPath: m_IsKinematic
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a03063d59cd984c4c8753d137b73beba, type: 3}
@@ -2811,7 +2811,7 @@ PrefabInstance:
     - target: {fileID: -3425156898628999459, guid: bb6a6286675fc294d93e3ee81a1f5965,
         type: 3}
       propertyPath: m_IsKinematic
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bb6a6286675fc294d93e3ee81a1f5965, type: 3}
@@ -14625,7 +14625,7 @@ Rigidbody:
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 0
-  m_IsKinematic: 1
+  m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
@@ -21330,8 +21330,7 @@ PrefabInstance:
     - target: {fileID: 1760292193, guid: a36cff2d70d8a461180492254592eb10, type: 3}
       propertyPath: fruit
       value: 
-      objectReference: {fileID: 1541859410316496, guid: 4fe5a7bcbee1651418ea031a87ff53e4,
-        type: 3}
+      objectReference: {fileID: 402483121}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a36cff2d70d8a461180492254592eb10, type: 3}
 --- !u!4 &573044336 stripped
@@ -33289,8 +33288,7 @@ PrefabInstance:
     - target: {fileID: 1760292193, guid: a36cff2d70d8a461180492254592eb10, type: 3}
       propertyPath: fruit
       value: 
-      objectReference: {fileID: 1541859410316496, guid: 4fe5a7bcbee1651418ea031a87ff53e4,
-        type: 3}
+      objectReference: {fileID: 402483121}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a36cff2d70d8a461180492254592eb10, type: 3}
 --- !u!4 &973036380 stripped
